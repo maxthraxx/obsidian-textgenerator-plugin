@@ -59,7 +59,7 @@
     "typescript": "5.2.2"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.27.3",
+    "@anthropic-ai/sdk": "^0.32.1",
     "@codemirror/language": "^6.10.2",
     "@codemirror/state": "^6.4.1",
     "@codemirror/view": "^6.32.0",
@@ -67,7 +67,7 @@
     "@google-ai/generativelanguage": "^1.1.0",
     "@huggingface/inference": "2.7.0",
     "@koa/cors": "^5.0.0",
-    "@langchain/anthropic": "^0.3.1",
+    "@langchain/anthropic": "^0.3.7",
     "@langchain/community": "^0.2.25",
     "@langchain/core": "^0.3.1",
     "@langchain/google-genai": "^0.1.0",
